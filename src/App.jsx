@@ -142,7 +142,7 @@ const tools = [
   { name: "Content Matrix", url: "content-matrix-kappa.vercel.app", status: "live", brand: "Elios" },
   { name: "SUITE (5 AI Agents)", url: "suite-tan-nine.vercel.app", status: "live", brand: "Elios" },
   { name: "AI Receptionist Demo", url: "elevated-engagement-demo.vercel.app", status: "live", brand: "Elevated" },
-  { name: "AI Readiness Assessment", url: "ai-readiness-assessment.vercel.app", status: "live", brand: "Elios" },
+  { name: "AI Readiness Assessment", url: "ai-readiness-deploy.vercel.app", status: "live", brand: "Elios" },
   { name: "Revenue Leak Calculator", url: "revenue-leak-calculator.vercel.app", status: "live", brand: "Elios" },  { name: "PRESS (Landing Page)", url: "press-zeta.vercel.app", status: "live", brand: "Elios" },
   { name: "CEO HQ Mission Control", url: "ceo-hq.vercel.app", status: "beta", brand: "Elios" },
   { name: "Vault Ventures CRM", url: "vault-ventures.vercel.app", status: "building", brand: "33v" },
